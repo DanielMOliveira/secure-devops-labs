@@ -9,16 +9,40 @@ fileignoreconfig:
   checksum: b8b5073d9fbadf451ad11ccc403b64d56c31f222fb64ef0adecbbe830e16404d
 - filename: gh_token2
   checksum: 7138da45e9504faa0a1531028f57321f68d27451a1cedec40d001494970f5141
+- filename: src/TodoAPI.Tests/obj/Debug/net6.0/TodoAPI.Tests.AssemblyInfo.cs
+  checksum: 17da2c3e32df614853ae358be6d8a46f9dc2fe3f4a45c3509a7a25c8ca9b3010
+- filename: src/TodoAPI.Tests/obj/Debug/net6.0/TodoAPI.Tests.AssemblyInfoInputs.cache
+  checksum: 7f88458d0ca166f5630d37508d91157f0aaa2df242cd911a7ddccc599ceb099f
+- filename: src/TodoAPI.Tests/obj/TodoAPI.Tests.csproj.nuget.g.props
+  checksum: bf4a1fa1b3e3a357bcbeb096646b0575e90c9bd621fb7279716f6eeb19ede78d
+- filename: src/TodoAPI.Tests/obj/TodoAPI.Tests.csproj.nuget.g.targets
+  checksum: 211686c7e04fa2d2e076f9d72de3ce12b40eedc5fdffbbc26723afe616eda8cd
+- filename: src/TodoAPI.Tests/obj/project.assets.json
+  checksum: 5b411e222f83a0bb9cee16c215de4361321414f0902c412d5f90c103ab1a1afc
+- filename: src/TodoAPI.Tests/obj/project.nuget.cache
+  checksum: 73ecdc56866f2654e51b2e03b9091066ccf0a1751668b6ba1f988e789b4ae67f
 - filename: src/TodoAPI/Migrations/20220608160823_InitDb.cs
   checksum: 242a99ecdae65e0e6fb25bb54c8a825f2ff064b97e726a9e4b2fe0214dac171a
 - filename: src/TodoAPI/appsettings.json
   checksum: c8030520efcf0831e66216a078a2e10745e24ea30e5682a05184e1a11bc8f3a0
+- filename: src/TodoAPI/obj/Debug/net6.0/TodoAPI.AssemblyInfo.cs
+  checksum: 4cbead60746c5034483b18f733b1319f9ac578108ba20e1ad9964b06dcbfc81f
+- filename: src/TodoAPI/obj/Debug/net6.0/TodoAPI.AssemblyInfoInputs.cache
+  checksum: d57136aec2b9fd8c956c06faaa3ae04f560f8f35426345498e6009f3b8bb4d40
+- filename: src/TodoAPI/obj/project.assets.json
+  checksum: a51f64ef4fab90f0f51ac534a3375174b5a3915e22e7a6c2856828c596525ba2
+- filename: src/TodoAPI/obj/project.nuget.cache
+  checksum: b3eb712e1159b4fb365cf22699f5c57627150eb65232d206c8197f4578a56d08
+- filename: src/TodoWebapp/obj/Debug/net6.0/TodoWebapp.AssemblyInfo.cs
+  checksum: 732ba61130a7a552c09ff5e2673d3494f780fbe1b1769398da1c22552e4e61eb
 - filename: src/TodoWebapp/obj/Debug/net6.0/TodoWebapp.AssemblyInfoInputs.cache
-  checksum: ddcfef41e114f0dd79a8de2328f0563f3ef8009de8a619463b63fcf4122c7e93
+  checksum: 3577d0c162cb846f3c04ba690fb5c146e10e30ad7d985e3259b8ae7d798c1e70
 - filename: src/TodoWebapp/obj/Debug/net6.0/TodoWebapp.GeneratedMSBuildEditorConfig.editorconfig
   checksum: 1b8c90755617b80ebf6f2dc7053f9a72f61baedc2e8be83de953a2001e711eb1
 - filename: src/TodoWebapp/obj/Debug/net6.0/TodoWebapp.RazorAssemblyInfo.cache
   checksum: 5b005396824cdfc0386dbaf68194f2f9713e67e3a33d7b3ebed4f2426686ddb6
+- filename: src/TodoWebapp/obj/project.nuget.cache
+  checksum: 750738b2b48ae437537cd350ab24cdfc3637aa238aa9749c8826f06fb8b6d545
 - filename: src/TodoWebapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map
   checksum: 9c326b6c665aebe1c7b00579ada56d22c7bb0f121baf275a90c7831287847b78
 - filename: src/TodoWebapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map
