@@ -121,4 +121,8 @@ fileignoreconfig:
   checksum: c5abb54d25bfb008d6faf6faed0a85b939632898ec31c2fae61a5776cf7be9f2
 - filename: src/TodoWebapp/wwwroot/lib/jquery/dist/jquery.min.map
   checksum: b803ba00d494c5e0624a88ddfc3d0db64cbd4235b09ab6b21e77c019735ef6e2
+- filename: todo-api-pr.yml
+  checksum: 1aaa4e5219bc95edeb9437b76d4f3c1830664d7e28d29df1575a0dfbd483a164
+- filename: todo-webapp-pr.yml
+  checksum: 4261bf12961bec7b51c94714705becef48f422b15d5cfaa8088e0b752801db11
 version: "1.0"

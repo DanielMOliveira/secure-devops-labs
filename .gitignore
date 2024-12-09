@@ -1,1 +1,7 @@
 secret.txt
+src/TodoAPI/obj/Debug/net6.0/TodoAPI.AssemblyInfo.cs
+src/TodoAPI/obj/Debug/net6.0/TodoAPI.AssemblyInfoInputs.cache
+src/TodoAPI.Tests/obj/Debug/net6.0/TodoAPI.Tests.AssemblyInfo.cs
+src/TodoAPI.Tests/obj/Debug/net6.0/TodoAPI.Tests.AssemblyInfoInputs.cache
+src/TodoWebapp/obj/Debug/net6.0/TodoWebapp.AssemblyInfo.cs
+src/TodoWebapp/obj/Debug/net6.0/TodoWebapp.AssemblyInfoInputs.cache
