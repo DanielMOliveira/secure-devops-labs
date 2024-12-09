@@ -112,7 +112,7 @@ jobs:
         with:
           category: "/language:csharp"
 
-      # SonarCloud Analysis
+      # SonarCloud Analysis    a
       - name: Set up SonarCloud
         uses: sonarsource/sonarcloud-github-action@v3.1.0
         with:
