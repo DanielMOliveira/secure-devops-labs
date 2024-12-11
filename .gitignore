@@ -1,1 +1,7 @@
 secret.txt
+src/TodoAPI/obj/*.*
+src/TodoAPI.Tests/obj/*.*
+src/TodoWebapp/obj/*
+src/TodoAPI/obj/
+src/TodoAPI.Tests/obj/
+src/TodoWebapp/obj/
